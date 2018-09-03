@@ -3,4 +3,6 @@ Installation:
 2. Edit your server.cfg and add "start CFA" to the resource list.
 
 
+Thanks to scarefacesg for the resource
+
 
